@@ -2,7 +2,7 @@
 
 # 💫 About Me:
  im ehsan
-🫡 FullStack Web Dev.🇮🇷 IR
+🫡 FullStack Web Dev.
 
 
 ## 🌐 Socials:
