@@ -10,7 +10,7 @@
  
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,angular,html,css,nestjs,nodejs,docker,tailwind,redis,postgres,linux,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,nestjs,js,html,css,nodejs,docker,tailwind,redis,postgres,linux,figma)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ehsan-shahrestani&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
