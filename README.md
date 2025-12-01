@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
- im ehsan
-🫡 FullStack Web Dev.
+Full-Stack Web Developer specialized in Angular & NestJS.
+Passionate about building scalable apps and clean architecture
 
 
 ## 🌐 Socials:
